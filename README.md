@@ -10,7 +10,7 @@ Virtual job simulation completed on [Forage](https://www.theforage.com/), where 
 
 ### Task 2: Forensic Technology – Excel Analysis
 - Used **Excel** to classify data and draw conclusions
-- Techniques used: [e.g., PivotTables, VLOOKUP/XLOOKUP, formulas, filtering]
+- Techniques used: IF Function {=IF(AND(C2>=-10,C2<=10),"Fair",IF(OR(C2<-20,C2>20),"Highly Discriminative","Unfair"))}
 - Screenshots:📊 [Download the Task 5 Equality Table (Excel)](./Task%205%20Equality%20Table%20Complete.xlsx)
   
 
