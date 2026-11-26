@@ -1,5 +1,4 @@
-# Deloitte-Data-Analytics-Job-Simulation
-Deloitte Data Analytics Job Simulation – Forage
+
 Virtual job simulation completed on [Forage](https://www.theforage.com/), where I worked on tasks that mirror the day-to-day work of a Deloitte data analyst.
 
 ## Tasks Completed
