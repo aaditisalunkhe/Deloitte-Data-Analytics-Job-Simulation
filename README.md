@@ -4,7 +4,7 @@ Virtual job simulation completed on [Forage](https://www.theforage.com/), where 
 ## Tasks Completed
 
 ### Task 1: Data Analysis and Dashboard Creation
-- Used **Tableau** to explore the client dataset and build a dashboard
+- Used **Tableau** to explore the client dataset and build a dashboard 
 - Identified key trends and insights: [e.g., top-performing categories, patterns over time]
 - Screenshots: ![Daikibo Downtime Dashboard](Screenshot%202026-11-26%20111404.png)
 
