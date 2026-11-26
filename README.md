@@ -13,6 +13,7 @@ Virtual job simulation completed on [Forage](https://www.theforage.com/), where 
 - Used **Excel** to classify data and draw conclusions
 - Techniques used: [e.g., PivotTables, VLOOKUP/XLOOKUP, formulas, filtering]
 - Screenshots: `/screenshots/excel-analysis.png`
+  
 
 ## Key Findings
 1. [Finding 1, with a number if possible]
